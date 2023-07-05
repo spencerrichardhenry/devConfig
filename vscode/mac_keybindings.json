@@ -209,7 +209,7 @@
   },
   {
       "command": "editor.action.deleteLines",
-      "key": "shift+alt+cmd+backspace",
+      "key": "shift+alt+ctrl+backspace",
       "when": "textInputFocus && !editorReadonly"
   },
   {
@@ -224,7 +224,7 @@
   },
   {
       "command": "editor.action.copyLinesDownAction",
-      "key": "shift+alt+cmd+d",
+      "key": "shift+alt+ctrl+d",
       "when": "editorTextFocus && !editorReadonly"
   },
   {
@@ -1277,7 +1277,7 @@
     "command": "-workbench.action.showCommands"
   },
   {
-    "key": "shift+alt+cmd+p",
+    "key": "shift+alt+ctrl+p",
     "command": "workbench.action.showCommands"
   },
   {
@@ -1285,12 +1285,12 @@
     "command": "-workbench.action.showCommands"
   },
   {
-    "key": "shift+alt+cmd+t",
+    "key": "shift+alt+ctrl+t",
     "command": "workbench.action.terminal.new",
     "when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
   },
   {
-    "key": "shift+alt+cmd+;",
+    "key": "shift+alt+ctrl+;",
     "command": "workbench.action.switchWindow"
   },
   {
@@ -1298,7 +1298,7 @@
     "command": "-workbench.action.switchWindow"
   },
   {
-    "key": "shift+alt+cmd+d",
+    "key": "shift+alt+ctrl+d",
     "command": "editor.action.copyLinesDownAction",
     "when": "editorTextFocus && !editorHasSelection && !editorReadonly"
   },
@@ -1308,7 +1308,7 @@
     "when": "editorTextFocus && !editorHasSelection && !editorReadonly"
   },
   {
-    "key": "shift+alt+cmd+backspace",
+    "key": "shift+alt+ctrl+backspace",
     "command": "editor.action.deleteLines",
     "when": "editorTextFocus && !editorReadonly"
   },
