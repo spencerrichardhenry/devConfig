@@ -18,4 +18,6 @@
 Spectacle is my preferred window mgmt software. Basically, Vyper+arrows for left/right snap, and up/down for bigger/smaller. Be sure to enable auto-start on login.
 ![image](https://github.com/spencerrichardhenry/devConfig/assets/46569542/70b2bb7f-f663-4cf1-b00e-b6b9be27b4a3)
 
+Try out https://github.com/noah-nuebling/mac-mouse-fix ?? so that scrolling doesn't suck on mac
+
 
