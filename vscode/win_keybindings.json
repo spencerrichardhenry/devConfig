@@ -463,10 +463,6 @@
         "key": "win+n"
     },
     {
-        "command": "workbench.action.files.newUntitledFile",
-        "key": "ctrl+[Enter]"
-    },
-    {
         "command": "git.pushTo",
         "key": "win+alt+k",
         "when": "!inDebugMode && !terminalFocus"
