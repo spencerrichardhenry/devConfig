@@ -13,6 +13,7 @@
 **System Settings -> Trackpad:** 
 - Tracking speed to 1 above middle (4 lines showing to right)
 - tap to click enabled
+- Force Click disabled
 
 ## Spectacle Settings
 Spectacle is my preferred window mgmt software. Basically, Vyper+arrows for left/right snap, and up/down for bigger/smaller. Be sure to enable auto-start on login.
