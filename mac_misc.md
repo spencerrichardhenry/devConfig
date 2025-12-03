@@ -19,6 +19,5 @@
 **System Settings -> Control Center
 - Menu bar Only -> Spotlight -> Don't show in Menu Bar
 
-## Spectacle Settings
-Spectacle is my preferred window mgmt software. Basically, Vyper+arrows for left/right snap, and up/down for bigger/smaller. Be sure to enable auto-start on login.
-![image](https://github.com/spencerrichardhenry/devConfig/assets/46569542/70b2bb7f-f663-4cf1-b00e-b6b9be27b4a3)
+**Desktop & Dock -> Hot Corner Shortcuts
+- Disable all hot corners
