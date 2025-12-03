@@ -1,11 +1,7 @@
 # devConfig
 
-## Alacritty
-Place the config file into ~/.alacritty.yml
-
-If you want to connect alacritty to tmux, uncomment the bottom stanza.
-
-URL Recognition is set up so that you can click on a URL and open it in a browser, see the hints stanza
+## Raycast
+Raycast export is password protected, it's our default lol password.
 
 ## Windows
 ### Disabling the "windows key" (hyper key) office shortcut
