@@ -21,3 +21,6 @@
 
 **Desktop & Dock -> Hot Corner Shortcuts
 - Disable all hot corners
+- Dock settings -> size to pretty small
+- Dock settings -> automatically hide and show the Dock
+- Go ahead and remove all the useless default apps from the dock at this point too
