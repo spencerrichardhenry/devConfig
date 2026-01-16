@@ -24,3 +24,6 @@
 - Dock settings -> size to pretty small
 - Dock settings -> automatically hide and show the Dock
 - Go ahead and remove all the useless default apps from the dock at this point too
+
+**Button, menu, and window look
+- Disable "Tint window background with wallpaper color"
