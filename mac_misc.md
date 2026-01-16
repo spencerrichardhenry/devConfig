@@ -16,6 +16,9 @@
 - tap to click enabled
 - Force Click disabled
 
+**search "browser"
+Default web browser -> google chrome
+
 **System Settings -> Control Center
 - Menu bar Only -> Spotlight -> Don't show in Menu Bar
 
