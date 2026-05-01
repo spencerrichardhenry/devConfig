@@ -2,8 +2,6 @@
   Set any config.h overrides for your specific keymap here.
   See config.h options at https://docs.qmk.fm/#/config_options?id=the-configh-file
 */
-#define ORYX_CONFIGURATOR
-#define IGNORE_MOD_TAP_INTERRUPT
 
 #undef RGB_DISABLE_TIMEOUT
 #define RGB_DISABLE_TIMEOUT 7200000
@@ -29,6 +27,6 @@
 // #define RETRO_SHIFT 1500
 #define TAPPING_TERM_PER_KEY
 // #define AUTO_SHIFT_TIMEOUT TAPPING_TERM
-#define COMBO_COUNT 8
+#define COMBO_COUNT 6
 #define COMBO_TERM 50
 #define TAP_HOLD_CAPS_DELAY 80
